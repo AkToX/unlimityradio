@@ -465,7 +465,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13301.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x13302.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
